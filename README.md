@@ -1,0 +1,1 @@
+platformAutoUpdate，自动更新平台
